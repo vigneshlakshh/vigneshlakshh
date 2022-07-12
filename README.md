@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vigneshlakshh
 - 👀 I’m interested in ... Data Science
-- - 🌱 I’m currently learning ...Machine Learning, SQL, PowerBI, Tableau, R ,Cloud 
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning ...Machine Learning, SQL, PowerBI, Tableau, R ,Cloud 
+- 💞️ I’m looking to collaborate on ...Aything related to Data science
 - 📫 How to reach me ...vigneshlakshh@gmail.com
 
 <!---
